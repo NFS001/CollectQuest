@@ -2,6 +2,8 @@
 
 CollectQuest is a 3D grid-based collection game built with Python, PyOpenGL, and GLUT. Explore procedurally generated tiles, collect the required shapes, and avoid traps and enemies before time runs out.
 
+![CollectQuest gameplay screenshot](images/collectquest-gameplay.png)
+
 ## Features
 
 - Six collectible shapes, each with a collection quota
